@@ -1,0 +1,55 @@
+@import url("https://fonts.googleapis.com/css?family=Ubuntu:400,700");
+
+*{
+    margin: 10px;
+    padding: 0px;
+}
+
+.Contenido{
+    background-color: #ebeef1;
+    color: #070404;
+    font-family: "Ubuntu", sans-serif;
+    margin: 5%;
+    border: 2px solid black;
+}
+
+header{
+    text-align: center;
+}
+
+.datos{
+    color: #5c5cf0;
+}
+
+.habilidades{
+    color:#5c5cf0;
+}
+
+.celular{
+    color:#5c5cf0;
+}
+
+.tel-laboral{
+    color:#5c5cf0;
+}
+
+.tel-personal{
+    color:#5c5cf0;
+}
+
+.educacion{
+    color:#5c5cf0
+}
+
+.estudios{
+    color:#5c5cf0
+}
+
+.trabajos{
+    color:#5c5cf0
+}
+
+footer{
+    text-align: center;
+
+}
